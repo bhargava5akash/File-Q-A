@@ -18,13 +18,13 @@ OpenAI / LLaMA / GPT4All models
 Google Colab / Jupyter Notebook
 
 System Workflow
-1️⃣ Upload file (PDF, TXT, DOCX)
-2️⃣ Extract text from file
-3️⃣ Convert text chunks into embeddings
-4️⃣ Store embeddings in a vector database
-5️⃣ User asks a question in natural language
-6️⃣ System retrieves relevant context
-7️⃣ LLM generates an answer from file content
+1️ Upload file (PDF, TXT, DOCX)
+2️ Extract text from file
+3️ Convert text chunks into embeddings
+4️ Store embeddings in a vector database
+5️ User asks a question in natural language
+6️ System retrieves relevant context
+7️ LLM generates an answer from file content
 
 Features
 ✔ Upload and process different file formats
